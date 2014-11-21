@@ -25,8 +25,8 @@ public class Looper {
           x=input.nextInt();
           sum=sum+x;
       }
-      System.out.println("The answer is:"+ sum);
-      System.out.println("You are now smarter!");
+      System.out.println("The answer isn't:"+ sum);
+      System.out.println("You are now smarter! so freakin s smart that i was able to use git hub to change what this program is gounding to yell.");
       
         
         
